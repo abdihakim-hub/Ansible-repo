@@ -1,0 +1,17 @@
+<!doctype html>
+<title>Static Website on Amazon S3</title>
+<style>
+  body { text-align: center; padding: 150px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  a { color: #dc8100; text-decoration: none; }
+  a:hover { color: #333; text-decoration: none; }
+  .sample {padding: 10px 20px 10px; border-top: groove; border-bottom: groove;} 
+</style>
+
+<article>
+	<div class="sample">
+    <h1>Welcome to my website!</h1>
+</div>
+</article>
